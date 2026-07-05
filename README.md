@@ -81,7 +81,7 @@
 ## 🎯 Coding Profiles
 
 - 💻 LeetCode: https://leetcode.com/u/Nitish_yadav8/
-- 🐙 GitHub: https://github.com/nitishyadav2005
+- 🐙 CodeChef: https://www.codechef.com/users/nitish_yadav_8
 - 💼 LinkedIn: https://www.linkedin.com/in/nitish-yadav-a94290336/
 
 ---
