@@ -23,7 +23,7 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,mysql" />
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Backend
