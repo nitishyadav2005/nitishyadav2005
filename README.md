@@ -8,9 +8,7 @@ Java Backend Developer | Spring Boot Learner | DSA Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Projects+Every+Day;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitishyadav2005&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
@@ -85,7 +83,7 @@ Java Backend Developer | Spring Boot Learner | DSA Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishyadav2005&theme=tokyo-night"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitishyadav2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 </p>
 
