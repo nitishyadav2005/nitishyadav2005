@@ -78,11 +78,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Coding Profiles
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitishyadav2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+- 💻 LeetCode: https://leetcode.com/u/Nitish_yadav8/
+- 🐙 GitHub: https://github.com/nitishyadav2005
+- 💼 LinkedIn: https://www.linkedin.com/in/nitish-yadav-a94290336/
 
 ---
 
