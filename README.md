@@ -108,6 +108,9 @@
 <a href="https://github.com/nitishyadav2005">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
+  <a href="https://github.com/nitishyadav2005">
+    <img src="https://icons8.com/icon/13930/linkedin"/>
+</a>
 </p>
 
 ---
