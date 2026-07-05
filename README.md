@@ -67,7 +67,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=nitishyadav2005&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishyadav2005&theme=github-compact"/>
 </p>
 
 ---
