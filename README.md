@@ -130,6 +130,9 @@ Java Backend Developer | Spring Boot Learner | DSA Enthusiast
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nitishyadav2005&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <h3 align="center">
 
