@@ -1,31 +1,26 @@
 <h1 align="center">Hi 👋, I'm Nitish Yadav</h1>
-
-<h3 align="center">
-Java Backend Developer | Spring Boot Learner | DSA Enthusiast
-</h3>
+<h3 align="center">Java Backend Developer | DSA Enthusiast | Open Source Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Building+Projects+Every+Day;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Learner;DSA+Enthusiast;Always+Learning+New+Things🚀" />
 </p>
-
-
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 Currently learning **Spring Boot**
 - 💻 Solving **LeetCode** problems every day
 - 🚀 Building **Java Backend Projects**
-- 📚 Exploring **REST APIs, JDBC & MySQL**
-- 🎯 Goal: Become a Software Engineer
-- ⚡ Fun fact: I love building Java projects and improving my DSA skills.
+- 📚 Exploring **REST APIs, JDBC, MySQL & Collections Framework**
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
+- ⚡ Fun Fact: I love turning ideas into Java projects.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,mysql" />
@@ -45,65 +40,59 @@ Java Backend Developer | Spring Boot Learner | DSA Enthusiast
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 - Spring Boot
 - REST APIs
 - JDBC
 - MySQL
-- Java Collections Framework
+- Java Collections
 - Multithreading
 - Git & GitHub
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitishyadav2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitishyadav2005&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishyadav2005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishyadav2005&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nitishyadav2005&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=nitishyadav2005&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitishyadav2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishyadav2005&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=nitishyadav2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
 
 ---
 
-# 🚀 Featured Repositories
+## 🚀 Featured Repositories
 
-⭐ Java Backend Projects
+⭐ Java Backend
 
-⭐ Spring Boot Projects
+⭐ Spring Boot
 
 ⭐ LeetCode Solutions
 
@@ -113,27 +102,23 @@ Java Backend Developer | Spring Boot Learner | DSA Enthusiast
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
+  <a href="https://github.com/nitishyadav2005" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
 
-<a href="https://github.com/nitishyadav2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nitish-yadav-a94290336/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/nitish-yadav-a94290336/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
 </p>
-
 ---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitishyadav2005&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=nitishyadav2005&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 <h3 align="center">
-
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
-
 </h3>
