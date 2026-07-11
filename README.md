@@ -95,27 +95,39 @@
 ---
 ## 🚀 Featured Repositories
 
-<p align="center">
+### 📅 [AetherSchedule – AI Timetable Generator](https://github.com/nitishyadav2005/AetherSchedule)
 
-<a href="https://github.com/nitishyadav2005/AetherSchedule">
-<img src="https://img.shields.io/badge/📅-AetherSchedule-0D1117?style=for-the-badge"/>
-</a>
+- AI-powered timetable generation
+- Smart scheduling with conflict detection
+- Modern and responsive UI
+- Built using **Next.js, TypeScript & Firebase**
 
-<a href="https://github.com/nitishyadav2005/StudyZone">
-<img src="https://img.shields.io/badge/📚-StudyZone-0D1117?style=for-the-badge"/>
-</a>
+---
 
-<br><br>
+### 📚 [StudyZone – Learning Platform](https://github.com/nitishyadav2005/StudyZone)
 
-<a href="https://github.com/nitishyadav2005/JAVA-backend">
-<img src="https://img.shields.io/badge/☕-JAVA--backend-0D1117?style=for-the-badge"/>
-</a>
+- One-stop platform for study resources
+- Notes, PYQs, and NCERT Solutions
+- Designed for **CBSE, JEE & NEET** students
+- Built with **Next.js, React & Firebase**
 
-<a href="https://github.com/nitishyadav2005/DSA-Journey">
-<img src="https://img.shields.io/badge/💻-DSA--Journey-0D1117?style=for-the-badge"/>
-</a>
+---
 
-</p>
+### ☕ [JAVA-backend – Java Backend Journey](https://github.com/nitishyadav2005/JAVA-backend)
+
+- Spring Boot learning projects
+- REST APIs, JDBC & MySQL
+- Core Java and Backend concepts
+- Hands-on backend development practice
+
+---
+
+### 💻 [DSA-Journey – LeetCode & DSA Solutions](https://github.com/nitishyadav2005/DSA-Journey)
+
+- Daily LeetCode solutions in Java
+- Well-organized DSA topics
+- Optimized approaches with explanations
+- Interview preparation repository
 
 ---
 
@@ -131,10 +143,6 @@
   </a>
 </p>
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nitishyadav2005&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
