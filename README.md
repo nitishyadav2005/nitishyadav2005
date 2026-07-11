@@ -78,9 +78,19 @@
 
 ## 🎯 Coding Profiles
 
-- 💻 LeetCode: https://leetcode.com/u/Nitish_yadav8/
-- 🐙 CodeChef: https://www.codechef.com/users/nitish_yadav_8
-- 💼 LinkedIn: https://www.linkedin.com/in/nitish-yadav-a94290336/
+<p align="left">
+  <a href="https://leetcode.com/u/Nitish_yadav8/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.codechef.com/users/nitish_yadav_8">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/nitishyadav2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
