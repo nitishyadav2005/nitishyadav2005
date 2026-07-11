@@ -78,18 +78,21 @@
 
 ## 🎯 Coding Profiles
 
-<p align="left">
-  <a href="https://leetcode.com/u/Nitish_yadav8/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<p align="center">
+  <a href="https://leetcode.com/u/Nitish_yadav8/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/>
   </a>
-
-  <a href="https://www.codechef.com/users/nitish_yadav_8">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.codechef.com/users/nitish_yadav_8" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="50" alt="CodeChef"/>
   </a>
-
-  <a href="https://github.com/nitishyadav2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/nitishyadav2005" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
