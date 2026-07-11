@@ -101,7 +101,8 @@
 </a>
 </tr>
 </table>
----
+
+
 ## 🚀 Featured Repositories
 
 ### 📅 [AetherSchedule – AI Timetable Generator](https://github.com/nitishyadav2005/AetherSchedule)
@@ -151,7 +152,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
----
+
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! Happy Coding 🚀
