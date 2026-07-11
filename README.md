@@ -93,27 +93,28 @@
 </p>
 
 ---
-
 ## 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/nitishyadav2005/AetherSchedule">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=AetherSchedule&theme=tokyonight&hide_border=true" />
-  </a>
 
-  <a href="https://github.com/nitishyadav2005/StudyZone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=StudyZone&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/nitishyadav2005/AetherSchedule">
+<img src="https://img.shields.io/badge/📅-AetherSchedule-0D1117?style=for-the-badge"/>
+</a>
 
-  <br/>
+<a href="https://github.com/nitishyadav2005/StudyZone">
+<img src="https://img.shields.io/badge/📚-StudyZone-0D1117?style=for-the-badge"/>
+</a>
 
-  <a href="https://github.com/nitishyadav2005/JAVA-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=JAVA-backend&theme=tokyonight&hide_border=true" />
-  </a>
+<br><br>
 
-  <a href="https://github.com/nitishyadav2005/DSA-Journey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=DSA-Journey&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/nitishyadav2005/JAVA-backend">
+<img src="https://img.shields.io/badge/☕-JAVA--backend-0D1117?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/nitishyadav2005/DSA-Journey">
+<img src="https://img.shields.io/badge/💻-DSA--Journey-0D1117?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
