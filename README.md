@@ -96,15 +96,25 @@
 
 ## 🚀 Featured Repositories
 
-⭐ Java Backend
+<p align="center">
 
-⭐ Spring Boot
+<a href="https://github.com/nitishyadav2005/AetherSchedule">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=AetherSchedule&theme=tokyonight&hide_border=true" />
+</a>
 
-⭐ LeetCode Solutions
+<a href="https://github.com/nitishyadav2005/StudyZone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=StudyZone&theme=tokyonight&hide_border=true" />
+</a>
 
-⭐ Java Collections Framework
+<a href="https://github.com/nitishyadav2005/JAVA-backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=JAVA-backend&theme=tokyonight&hide_border=true" />
+</a>
 
-⭐ Core Java
+<a href="https://github.com/nitishyadav2005/DSA-Journey">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nitishyadav2005&repo=DSA-Journey&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
 
 ---
 
