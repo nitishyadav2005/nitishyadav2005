@@ -78,23 +78,29 @@
 
 ## 🎯 Coding Profiles
 
-<p align="center">
-  <a href="https://leetcode.com/u/Nitish_yadav8/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="50" alt="LeetCode"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codechef.com/users/nitish_yadav_8" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="50" alt="CodeChef"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/nitishyadav2005" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://leetcode.com/u/Nitish_yadav8/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="60"/><br>
+<b>LeetCode</b>
+</a>
+</td>
 
+<td align="center">
+<a href="https://www.codechef.com/users/nitish_yadav_8" target="_blank">
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="60"/><br>
+<b>CodeChef</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/nitishyadav2005" target="_blank">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="60"/><br>
+<b>GitHub</b>
+</a>
+</tr>
+</table>
 ---
 ## 🚀 Featured Repositories
 
